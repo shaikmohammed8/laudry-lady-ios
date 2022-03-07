@@ -1,0 +1,6 @@
+<resources>
+<string name="facebook_app_id">277996544445388</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">7d194fdc4a8670160dbdb6a0174edc3b</string>
+<string name="app_name">Laundry Lady</string>
+</resources>
